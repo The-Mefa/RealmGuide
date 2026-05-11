@@ -40,12 +40,11 @@ Program kurulum gerektirmeyen, hafif ve güvenli bir yapıya sahiptir.
 Kısayolları `Ayarlar > Kısayollar` menüsünden dilediğiniz gibi değiştirebilirsiniz:
 
 
-
 ## 🛠️ Geliştirici
 
 Bu proje **Mefa** tarafından, Dead by Daylight topluluğu için Tauri (v2), Rust ve Vanilla JS kullanılarak geliştirilmiştir.
 
-Sorun bildirimi, harita istekleri veya iletişim için GitHub Issues sekmesini kullanabilirsiniz.
+Sorun bildirimi, harita istekleri için GitHub Issues sekmesini kullanabilirsiniz.
 
 <div align="center">
   <i>"Death is not an escape."</i>
