@@ -39,17 +39,11 @@ Program kurulum gerektirmeyen, hafif ve güvenli bir yapıya sahiptir.
 
 Kısayolları `Ayarlar > Kısayollar` menüsünden dilediğiniz gibi değiştirebilirsiniz:
 
-| İşlem | Kısayol (Değiştirilebilir) |
-| :--- | :--- |
-| **Hızlı Arama Menüsü Aç/Kapat** | `F3` (Tavsiye Edilen) |
-| **Overlay Göster / Gizle** | *Ayarlanmadı* |
-| **Konum Değiştir** | *Ayarlanmadı* |
-| **Boyutu Büyüt / Küçült** | *Ayarlanmadı* |
-| **Şeffaflığı Artır / Azalt** | *Ayarlanmadı* |
+
 
 ## 🛠️ Geliştirici
 
-Bu proje **Mefa** tarafından, Dead by Daylight topluluğu için Tauri (v2), Rust ve Vanilla JS kullanılarak sevgi ve kanla 🩸 geliştirilmiştir.
+Bu proje **Mefa** tarafından, Dead by Daylight topluluğu için Tauri (v2), Rust ve Vanilla JS kullanılarak geliştirilmiştir.
 
 Sorun bildirimi, harita istekleri veya iletişim için GitHub Issues sekmesini kullanabilirsiniz.
 
