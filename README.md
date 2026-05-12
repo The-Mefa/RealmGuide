@@ -23,7 +23,7 @@
 * **DBD Teması:** Kan kırmızısı karanlık tema ile oyunun atmosferini bozmayan özel arayüz tasarımı.
 
 ## 📥 Kurulum
-
+**Uygulama kurulduktan sonra uygulamayı tamamen kapatık tekrar açmanız gerekmektedir aksi taktirde yayıncıları ve haritaları göremezsiniz**
 Program kurulum gerektirmeyen, hafif ve güvenli bir yapıya sahiptir.
 
 <div align="center">
