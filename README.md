@@ -30,7 +30,7 @@ Program kurulum gerektirmeyen, hafif ve güvenli bir yapıya sahiptir.
   <h3><a href="https://github.com/The-Mefa/RealmGuide/releases/download/v2/RealmGuide_2.0.0_x64-setup.exe"> 🚀 Tıkla ve RealmGuide v0.1.0 (64-bit) İndir</a></h3>
 </div>
 
-1. Yukarıdaki bağlantıdan `RealmGuide_0.1.0_x64-setup.exe` dosyasını indirin.
+1. Yukarıdaki bağlantıdan `RealmGuide_2.0.0_x64-setup.exe` dosyasını indirin.
 2. Kurulumu tamamlayın.
 3. Uygulamayı çalıştırın, sağ alt köşeden (tepsi) veya ana menüden ayarlarınızı yapın.
 4. **Önemli Not:** Kusursuz bir Overlay deneyimi için oyunu grafik ayarlarından **"Çerçevesiz Pencere" (Borderless Windowed)** moduna almayı unutmayın.
